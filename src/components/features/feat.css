@@ -1,0 +1,32 @@
+.fa-square {
+    color: orangered;
+    font-size: 3.5rem;
+}
+.feature {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 2rem;
+}
+.feature-icon {
+    position: relative;
+    margin-right: 2rem;
+}
+.inner-icon {
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.5rem;
+}
+.feature-text h3{
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 1.4;
+    text-transform: uppercase;
+    color: var(--dark-light-blue);
+}
+.feature-text p {
+    width: 75%;
+    text-align: justify;
+    line-height: 1.8;
+}

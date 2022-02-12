@@ -1,0 +1,28 @@
+/* font-family: glyphicons*/
+@font-face{
+    font-family: ABeeZee-italic;
+    src:url('./fonts/ABeeZee-italic.ttf');
+}
+@font-face{
+    font-family: ABeeZee;
+    src:url('./fonts/ABeeZee.ttf');
+}
+@font-face{
+    font-family: Abel;
+    src:url('./fonts/Abel.ttf');
+}
+@font-face{
+    font-family: Abhaya-extrabold;
+    src:url('./fonts/Abhaya-extrabold.ttf');
+}
+@font-face{
+    font-family: Abhaya-medium;
+    src:url('./fonts/Abhaya-medium.ttf');
+}
+@font-face{
+    font-family: Abhaya-regular;
+    src:url('./fonts/Abhaya-regular.ttf');
+}
+
+
+

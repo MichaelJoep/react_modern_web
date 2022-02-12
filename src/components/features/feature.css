@@ -1,0 +1,31 @@
+.u-title .fa-star {
+    position: relative;
+    right: 1.5rem;
+    top:-7px;
+    color: var(--color-white);
+}
+.features-content {
+    display: flex;
+    justify-content: center;
+}
+.features-left {
+    flex: 1;
+    text-align: center;
+}
+.features-left img {
+    width: 65%;
+}
+
+.features-right{
+    flex: 1;
+    margin: 5rem;
+}
+
+@media (max-width: 769px) {
+    .features-content {
+        flex-direction: column;
+    }
+    .features-right {
+        margin-left: 20px;
+    }
+}

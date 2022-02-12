@@ -1,0 +1,30 @@
+ a{
+    text-decoration: none;
+    margin-right: 1.6rem;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    color: var(--color-white);
+    font-family: sans-serif;
+    font-weight: 700;
+}
+ a:hover {
+    color: orangered;
+}
+a.btn {
+    /* margin-left: 1rem; */
+    padding: 5px 8px;
+    border-radius: 3px;
+    font-weight: 500;
+}
+a.btn-dark {
+    border: 2px solid var(--color-white);
+    background: transparent;
+}
+a.btn-orange {
+    border: 2px solid transparent;
+    background: orangered;
+
+}
+ a.btn-orange:hover {
+    color: var(--text-dark);
+} 
